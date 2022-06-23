@@ -1,8 +1,8 @@
 ### Olá 👋
 
-💻 Front-end
-📚 Estudando Javascript
-🎓 Formado em Multimídia
+💻 Front-end <br>
+📚 Estudando Javascript <br>
+🎓 Formado em Multimídia <br>
 
 
 <div align="center">
