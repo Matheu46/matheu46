@@ -2,4 +2,4 @@
 
 💻 Programador Web <br>
 📚 Estudando Javascript, PHP e WordPress <br>
-🎓 Formado em Multimídia <br>
+🎓 Formação: Licenciatura em Informática e Multimídia <br>
