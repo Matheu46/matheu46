@@ -1,12 +1,24 @@
-### 💻 Desenvolvedor de software com foco em educação
+Software Developer focused on Educational Technology, Web Development, and Open Source solutions.
 
-Trabalho com PHP, Python e JavaScript, criando soluções para Moodle, WordPress e H5P. Tenho experiência no desenvolvimento de recursos personalizados, integrações e otimizações para plataformas educacionais e portais institucionais.
+I work primarily with Moodle and WordPress development, creating plugins, themes, integrations, and custom features for educational platforms and institutional websites.
 
-🎓 Formação: <br>
-✔️ Licenciatura em Informática <br>
-✔️ Técnico em Multimídia <br>
+## Areas of Interest
+- Educational Technology (EdTech)
+- Moodle Development
+- WordPress Development
+- Open Source Software
+- APIs and System Integration
+- Artificial Intelligence
 
-🔧 Stack & Tecnologias: <br>
-✔️ PHP | Python | JavaScript <br>
-✔️ Moodle | WordPress | H5P <br>
-✔️ APIs | Banco de Dados <br>
+## Technologies
+- PHP
+- Python
+- JavaScript
+- SQL
+- Moodle
+- WordPress
+- H5P
+
+## Education
+- Bachelor's Degree in Computer Education
+- Multimedia Technician
